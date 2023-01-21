@@ -1,0 +1,5 @@
+# JetBrains Settings
+.idea/ 
+
+# Python Cache
+__pycache__
